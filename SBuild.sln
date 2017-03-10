@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBuild", "SBuild\SBuild.csproj", "{1AB6D77D-8F51-4E31-B5B6-979E99221FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTest", "MQTest\MQTest.csproj", "{63093BFA-BDF6-4423-ADCF-B73F7212BDA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMQTest", "WebMQTest\WebMQTest.csproj", "{19154BAE-B6F2-446A-8C05-4CF8A35E3C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB6D77D-8F51-4E31-B5B6-979E99221FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB6D77D-8F51-4E31-B5B6-979E99221FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB6D77D-8F51-4E31-B5B6-979E99221FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB6D77D-8F51-4E31-B5B6-979E99221FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63093BFA-BDF6-4423-ADCF-B73F7212BDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63093BFA-BDF6-4423-ADCF-B73F7212BDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63093BFA-BDF6-4423-ADCF-B73F7212BDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63093BFA-BDF6-4423-ADCF-B73F7212BDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19154BAE-B6F2-446A-8C05-4CF8A35E3C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19154BAE-B6F2-446A-8C05-4CF8A35E3C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19154BAE-B6F2-446A-8C05-4CF8A35E3C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19154BAE-B6F2-446A-8C05-4CF8A35E3C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\bin\Debug\MQTest.exe.config
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\bin\Debug\MQTest.exe
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\bin\Debug\MQTest.pdb
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\obj\Debug\MQTest.csprojResolveAssemblyReference.cache
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\obj\Debug\MQTest.Form1.resources
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\obj\Debug\MQTest.Properties.Resources.resources
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\obj\Debug\MQTest.csproj.GenerateResource.Cache
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\obj\Debug\MQTest.exe
+C:\Users\sunxueyang\Desktop\SBuild\MQTest\obj\Debug\MQTest.pdb
